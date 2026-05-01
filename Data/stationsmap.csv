@@ -1,0 +1,422 @@
+﻿priority,loss,borough,station_complex,Longitude,Latitude
+Core,0,bronx,"138 St-Grand Concourse (4,5)",-73.929849,40.813224
+Core,0,bronx,"149 St-Grand Concourse (2,4,5)",-73.927351,40.818375
+Core,1940.896986,bronx,"161 St-Yankee Stadium (B,D,4)",-73.925651,40.827905
+Core,0,bronx,167 St (4),-73.91844,40.833771
+Core,0,bronx,"167 St (B,D)",-73.91844,40.833771
+Core,0,bronx,170 St (4),-73.9134,40.839306
+Core,0,bronx,"170 St (B,D)",-73.9134,40.839306
+Core,0,bronx,"174 St (2,5)",-73.887734,40.837288
+Core,0,bronx,"174-175 Sts (B,D)",-73.910136,40.8459
+Core,0,bronx,176 St (4),-73.911794,40.84848
+Core,0,bronx,"182-183 Sts (B,D)",-73.900741,40.856093
+Core,0,bronx,183 St (4),-73.903879,40.858407
+Core,0,bronx,"219 St (2,5)",-73.862633,40.883895
+Secondary,0,bronx,"225 St (2,5)",-73.860341,40.888022
+Secondary,0,bronx,231 St (1),-73.904834,40.878856
+Secondary,0,bronx,"233 St (2,5)",-73.857473,40.893193
+Core,0,bronx,238 St (1),-73.90087,40.884667
+Core,0,bronx,3 Av-138 St (6),-73.926138,40.810476
+Core,0,bronx,"3 Av-149 St (2,5)",-73.917757,40.816109
+Core,0,bronx,"Allerton Av (2,5)",-73.867352,40.865462
+Stable,0,bronx,Baychester Av (5),-73.838591,40.878663
+Core,0,bronx,"Bedford Park Blvd (B,D)",-73.887138,40.873244
+Stable,0,bronx,Bedford Park Blvd-Lehman College (4),-73.890064,40.873412
+Core,0,bronx,"Bronx Park East (2,5)",-73.868457,40.848828
+Stable,0,bronx,Brook Av (6),-73.91924,40.807566
+Secondary,0,bronx,Buhre Av (6),-73.832569,40.84681
+Secondary,0,bronx,"Burke Av (2,5)",-73.867164,40.871356
+Stable,0,bronx,Burnside Av (4),-73.907684,40.853453
+Core,0,bronx,Castle Hill Av (6),-73.851222,40.834255
+Stable,0,bronx,Cypress Av (6),-73.914042,40.805368
+Core,0,bronx,E 143 St-St Mary's St (6),-73.907657,40.808719
+Core,0,bronx,E 149 St (6),-73.904098,40.812118
+Core,0,bronx,"E 180 St (2,5)",-73.873488,40.841894
+Stable,0,bronx,Eastchester-Dyre Av (5),-73.830834,40.8883
+Core,0,bronx,Elder Av (6),-73.879159,40.828584
+Core,0,bronx,Fordham Rd (4),-73.897749,40.861296
+Core,0,bronx,"Fordham Rd (B,D)",-73.897749,40.861296
+Core,0,bronx,"Freeman St (2,5)",-73.891865,40.829993
+Stable,0,bronx,"Gun Hill Rd (2,5)",-73.866256,40.87785
+Stable,0,bronx,Gun Hill Rd (5),-73.866256,40.87785
+Core,0,bronx,Hunts Point Av (6),-73.890549,40.820948
+Core,0,bronx,"Intervale Av (2,5)",-73.896736,40.822181
+Core,0,bronx,"Jackson Av (2,5)",-73.907807,40.81649
+Core,0,bronx,Kingsbridge Rd (4),-73.893509,40.866978
+Core,0,bronx,"Kingsbridge Rd (B,D)",-73.893509,40.866978
+Stable,0,bronx,Longwood Av (6),-73.896435,40.816104
+Stable,0,bronx,Middletown Rd (6),-73.836322,40.843863
+Stable,0,bronx,Morris Park (5),-73.860495,40.854364
+Core,0,bronx,Morrison Av-Soundview (6),-73.874516,40.829521
+Stable,0,bronx,Mosholu Pkwy (4),-73.884655,40.87975
+Core,0,bronx,Mt Eden Av (4),-73.914685,40.844434
+Secondary,0,bronx,"Nereid Av (2,5)",-73.854376,40.898379
+Stable,0,bronx,Norwood-205 St (D),-73.878855,40.874811
+Stable,0,bronx,Parkchester (6),-73.860816,40.833226
+Core,0,bronx,Pelham Bay Park (6),-73.828121,40.852462
+Stable,0,bronx,"Pelham Pkwy (2,5)",-73.867615,40.857192
+Stable,0,bronx,Pelham Pkwy (5),-73.867615,40.857192
+Secondary,0,bronx,"Prospect Av (2,5)",-73.90177,40.819585
+Core,0,bronx,"Simpson St (2,5)",-73.893064,40.824073
+Core,0,bronx,St Lawrence Av (6),-73.867618,40.831509
+Core,0,bronx,"Tremont Av (B,D)",-73.905227,40.85041
+Core,49639.33085,bronx,Van Cortlandt Park-242 St (1),-73.898583,40.889248
+Secondary,0,bronx,Wakefield-241 St (2),-73.85062,40.903125
+Core,0,bronx,"West Farms Sq-E Tremont Av (2,5)",-73.880049,40.840295
+Core,0,bronx,Westchester Sq-E Tremont Av (6),-73.842952,40.839892
+Secondary,0,bronx,Whitlock Av (6),-73.886283,40.826525
+Core,9115.80721,bronx,Woodlawn (4),-73.878751,40.886037
+Secondary,0,bronx,Zerega Av (6),-73.847036,40.836488
+Core,0,manhattan,1 Av (L),-73.981628,40.730953
+Secondary,0,manhattan,103 St (1),-73.968379,40.799446
+Core,0,manhattan,103 St (6),-73.947478,40.7906
+Secondary,8420.045449,manhattan,"103 St (C,B)",-73.961454,40.796092
+Core,0,manhattan,110 St (6),-73.94425,40.79502
+Core,0,manhattan,"116 St (2,3)",-73.949625,40.802098
+Core,0,manhattan,116 St (6),-73.941616,40.798629
+Core,0,manhattan,"116 St (C,B)",-73.956264,40.805085
+Stable,0,manhattan,116 St-Columbia University (1),-73.964109,40.807722
+Stable,0,manhattan,125 St (1),-73.9536,40.813224
+Secondary,0,manhattan,"125 St (2,3)",-73.945495,40.807754
+Secondary,0,manhattan,"125 St (4,5,6)",-73.93753,40.804178
+Core,354.0399527,manhattan,"125 St (A,C,B,D)",-73.952343,40.811109
+Core,0,manhattan,"135 St (2,3)",-73.94077,40.814229
+Stable,0,manhattan,"135 St (C,B)",-73.947642,40.817894
+Stable,0,manhattan,137 St-City College (1),-73.953676,40.822008
+Stable,4364.726241,manhattan,"14 St (A,C,E)/8 Av (L)",-74.002578,40.739777
+Secondary,0,manhattan,"14 St (F,M,1,2,3)/6 Av (L)",-73.996786,40.737335
+Core,0,manhattan,"14 St-Union Sq (L,N,Q,R,W,4,5,6)",-73.990568,40.735736
+Secondary,0,manhattan,145 St (1),-73.947663,40.825169
+Core,0,manhattan,145 St (3),-73.936244,40.82042
+Secondary,0,manhattan,"145 St (A,C,B,D)",-73.944216,40.824783
+Secondary,0,manhattan,"155 St (B,D)",-73.938148,40.830518
+Stable,0,manhattan,155 St (C),-73.941575,40.830517
+Secondary,0,manhattan,157 St (1),-73.94489,40.834041
+Stable,0,manhattan,163 St-Amsterdam Av (C),-73.939892,40.836013
+Stable,0,manhattan,"168 St (A,C,1)",-73.93916,40.84086
+Core,18982.15567,manhattan,175 St (A),-73.939704,40.847391
+Stable,0,manhattan,18 St (1),-73.997871,40.74104
+Secondary,0,manhattan,181 St (1),-73.933596,40.849506
+Core,0,manhattan,181 St (A),-73.937969,40.851695
+Secondary,9272.847695,manhattan,190 St (A),-73.93418,40.859022
+Secondary,0,manhattan,191 St (1),-73.929412,40.855225
+Secondary,0,manhattan,2 Av (F),-73.989938,40.723402
+Stable,0,manhattan,207 St (1),-73.91859,40.86463
+Stable,0,manhattan,215 St (1),-73.915279,40.869444
+Secondary,0,manhattan,23 St (1),-73.995657,40.744081
+Secondary,0,manhattan,23 St (6),-73.984233,40.740778
+Stable,0,manhattan,"23 St (C,E)",-73.998041,40.745906
+Core,0,manhattan,"23 St (F,M)",-73.992765,40.742954
+Secondary,0,manhattan,"23 St (R,W)",-73.984984,40.743174
+Secondary,0,manhattan,28 St (1),-73.993365,40.747215
+Core,22737.96247,manhattan,28 St (6),-73.984264,40.74307
+Secondary,0,manhattan,"28 St (R,W)",-73.988699,40.745488
+Core,0,manhattan,3 Av (L),-73.986122,40.732849
+Secondary,0,manhattan,33 St (6),-73.982076,40.746081
+Core,106658.4024,manhattan,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",-73.98795,40.749567
+Core,90530.67459,manhattan,34 St-Hudson Yards (7),-74.00191,40.755882
+Core,0,manhattan,"34 St-Penn Station (1,2,3)",-73.991057,40.750373
+Core,0,manhattan,"34 St-Penn Station (A,C,E)",-73.993391,40.752287
+Core,0,manhattan,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",-73.981329,40.75864
+Secondary,0,manhattan,"49 St (N,R,W)",-73.984139,40.759901
+Secondary,9546.683452,manhattan,"5 Av/53 St (E,M)",-73.975224,40.760167
+Stable,49772.71714,manhattan,"5 Av/59 St (N,R,W)",-73.97377,40.764907
+Secondary,0,manhattan,50 St (1),-73.983849,40.761728
+Secondary,0,manhattan,"50 St (C,E)",-73.985984,40.762456
+Core,0,manhattan,57 St (F),-73.977098,40.763973
+Secondary,0,manhattan,"57 St-7 Av (N,Q,R,W)",-73.980658,40.764664
+Stable,0,manhattan,"59 St-Columbus Circle (A,B,C,D,1)",-73.981736,40.768296
+Secondary,0,manhattan,66 St-Lincoln Center (1),-73.982209,40.773441
+Stable,0,manhattan,68 St-Hunter College (6),-73.964973,40.768141
+Secondary,0,manhattan,"7 Av (E,B,D)",-73.981891,40.762964
+Stable,0,manhattan,"72 St (1,2,3)",-73.976924,40.775519
+Core,153055.3122,manhattan,"72 St (C,B)",-73.978175,40.775594
+Core,0,manhattan,72 St (Q),-73.954522,40.780255
+Core,0,manhattan,77 St (6),-73.959874,40.77362
+Secondary,0,manhattan,79 St (1),-73.972323,40.783934
+Stable,0,manhattan,"8 St-NYU (R,W)",-73.99239,40.730328
+Core,195139.5946,manhattan,"81 St-Museum of Natural History (C,B)",-73.972143,40.781433
+Secondary,0,manhattan,86 St (1),-73.976218,40.788644
+Stable,0,manhattan,"86 St (4,5,6)",-73.955589,40.779492
+Stable,0,manhattan,"86 St (C,B)",-73.968916,40.785868
+Core,0,manhattan,86 St (Q),-73.95441,40.777891
+Secondary,0,manhattan,"96 St (1,2,3)",-73.972323,40.793919
+Secondary,0,manhattan,96 St (6),-73.950365,40.785672
+Stable,28932.51844,manhattan,"96 St (C,B)",-73.964327,40.790748
+Core,0,manhattan,96 St (Q),-73.947083,40.784046
+Core,53337.01596,manhattan,Astor Pl (6),-73.99107,40.730054
+Core,0,manhattan,"Bowery (J,Z)",-73.993868,40.72028
+Secondary,33330.18848,manhattan,"Bowling Green (4,5)",-74.014065,40.704817
+Secondary,0,manhattan,"Broad St (J,Z)",-74.011057,40.706476
+Core,0,manhattan,"Broadway-Lafayette St (B,D,F,M)/Bleecker St (6)",-73.996182,40.725297
+Secondary,0,manhattan,"Brooklyn Bridge-City Hall (4,5,6)/Chambers St (J,Z)",-74.005301,40.71216
+Core,0,manhattan,"Bryant Pk (B,D,F,M)/5 Av (7)",-73.983917,40.753824
+Core,0,manhattan,Canal St (1),-74.006277,40.722854
+Secondary,0,manhattan,"Canal St (A,C,E)",-74.005229,40.720824
+Core,5692.100118,manhattan,"Canal St (J,N,Q,R,W,Z,6)",-74.000772,40.718383
+Stable,0,manhattan,Cathedral Pkwy (110 St) (1),-73.968387,40.803967
+Core,7035.103487,manhattan,"Cathedral Pkwy (110 St) (C,B)",-73.958214,40.800585
+Core,0,manhattan,"Central Park North (110 St) (2,3)",-73.952566,40.799075
+Stable,0,manhattan,"Chambers St (1,2,3)",-74.009266,40.715478
+Secondary,0,manhattan,"Chambers St (A,C)/WTC (E)/Park Pl (2,3)/Cortlandt (R,W)",-74.008994,40.712744
+Core,0,manhattan,Christopher St-Sheridan Sq (1),-74.002906,40.733423
+Stable,2741.137589,manhattan,"City Hall (R,W)",-74.007233,40.713051
+Secondary,0,manhattan,"Delancey St (F)/Essex St (J,M,Z)",-73.988205,40.718407
+Secondary,0,manhattan,Dyckman St (1),-73.925536,40.860531
+Core,10781.05165,manhattan,Dyckman St (A),-73.927271,40.865491
+Stable,0,manhattan,East Broadway (F),-73.987154,40.712168
+Core,0,manhattan,Franklin St (1),-74.006886,40.719318
+Core,0,manhattan,"Fulton St (A,C,J,Z,2,3,4,5)",-74.009049,40.710374
+Core,0,manhattan,"Grand Central-42 St (S,4,5,6,7)",-73.976848,40.751776
+Core,125568.1455,manhattan,"Grand St (B,D)",-73.993753,40.718267
+Secondary,0,manhattan,Harlem-148 St (3),-73.93647,40.823881
+Core,0,manhattan,Houston St (1),-74.005367,40.728251
+Stable,0,manhattan,Inwood-207 St (A),-73.919899,40.868072
+Stable,0,manhattan,"Lexington Av (N,R,W)/59 St (4,5,6)",-73.967256,40.762456
+Secondary,0,manhattan,"Lexington Av-53 St (E,M)/51 St (6)",-73.97192,40.757107
+Core,0,manhattan,"Lexington Av/63 St (F,Q)",-73.96608,40.764666
+Secondary,0,manhattan,Marble Hill-225 St (1),-73.90983,40.874588
+Core,0,manhattan,"Prince St (R,W)",-73.997702,40.724329
+Core,0,manhattan,Rector St (1),-74.013783,40.707513
+Stable,0,manhattan,"Rector St (R,W)",-74.01322,40.707745
+Core,0,manhattan,Roosevelt Island (F),-73.95326,40.759145
+Core,100074.2044,manhattan,"South Ferry (1)/Whitehall St (R,W)",-74.012994,40.703087
+Secondary,0,manhattan,Spring St (6),-73.997141,40.722301
+Core,0,manhattan,"Spring St (C,E)",-74.003739,40.726227
+Core,0,manhattan,"Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)",-73.987495,40.75529
+Core,0,manhattan,"W 4 St-Wash Sq (A,C,E,B,D,F,M)",-74.000495,40.732338
+Core,21427.27902,manhattan,WTC Cortlandt (1),-74.01168,40.711835
+Core,0,manhattan,"Wall St (2,3)",-74.00922,40.70682
+Core,0,manhattan,"Wall St (4,5)",-74.011862,40.707557
+Core,410847.2506,queens,103 St-Corona Plaza (7),-73.8627,40.749865
+Core,0,queens,104 St (A),-73.837683,40.681711
+Stable,0,queens,"104 St (J,Z)",-73.84433,40.695178
+Core,0,queens,111 St (7),-73.855334,40.75173
+Core,6705.612411,queens,111 St (A),-73.832163,40.684331
+Core,0,queens,111 St (J),-73.836345,40.697418
+Core,0,queens,"121 St (J,Z)",-73.828294,40.700492
+Stable,0,queens,169 St (F),-73.793604,40.71047
+Secondary,0,queens,21 St (G),-73.949724,40.744065
+Core,0,queens,21 St-Queensbridge (F),-73.942836,40.754203
+Core,0,queens,"30 Av (N,W)",-73.921479,40.766779
+Core,0,queens,33 St-Rawson St (7),-73.930997,40.744587
+Stable,0,queens,"36 Av (N,W)",-73.929575,40.756804
+Secondary,0,queens,"36 St (M,R)",-73.928781,40.752039
+Stable,0,queens,"39 Av-Dutch Kills (N,W)",-73.932755,40.752882
+Core,0,queens,40 St-Lowery St (7),-73.924016,40.743781
+Core,0,queens,"46 St (M,R)",-73.913333,40.756312
+Core,0,queens,46 St-Bliss St (7),-73.918435,40.743132
+Core,245460.1855,queens,52 St (7),-73.912549,40.744149
+Core,0,queens,61 St-Woodside (7),-73.902984,40.74563
+Core,0,queens,"63 Dr-Rego Park (M,R)",-73.861604,40.729846
+Secondary,0,queens,"65 St (M,R)",-73.898453,40.749669
+Secondary,0,queens,"67 Av (M,R)",-73.852719,40.726523
+Core,271249.2582,queens,69 St (7),-73.896403,40.746325
+Stable,177664.2803,queens,"74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)",-73.891366,40.746746
+Secondary,0,queens,"75 Av (E,F)",-73.837324,40.718331
+Core,0,queens,"75 St-Elderts Ln (J,Z)",-73.867139,40.691324
+Core,0,queens,80 St (A),-73.858992,40.679371
+Core,0,queens,82 St-Jackson Hts (7),-73.883697,40.747659
+Core,409070.2567,queens,85 St-Forest Pkwy (J),-73.86001,40.692435
+Core,0,queens,88 St (A),-73.85147,40.679843
+Secondary,0,queens,90 St-Elmhurst Av (7),-73.876613,40.748408
+Stable,0,queens,Aqueduct Racetrack (A),-73.835919,40.672097
+Core,3668.959338,queens,Aqueduct-N Conduit Av (A),-73.834058,40.668234
+Secondary,0,queens,"Astoria Blvd (N,W)",-73.917843,40.770258
+Secondary,0,queens,"Astoria-Ditmars Blvd (N,W)",-73.912034,40.775036
+Core,10734.53853,queens,"Beach 105 St (A,S)",-73.827559,40.583209
+Core,61165.15118,queens,Beach 25 St (A),-73.761353,40.600066
+Core,149042.3206,queens,Beach 36 St (A),-73.768175,40.595398
+Core,92945.42506,queens,Beach 44 St (A),-73.776013,40.592943
+Core,306260.6514,queens,Beach 60 St (A),-73.788522,40.592374
+Core,418652.8165,queens,Beach 67 St (A),-73.796924,40.590927
+Core,56935.52518,queens,"Beach 90 St (A,S)",-73.813641,40.588034
+Core,38049.13635,queens,"Beach 98 St (A,S)",-73.820558,40.585307
+Core,0,queens,"Briarwood (E,F)",-73.820574,40.709179
+Core,27522.12606,queens,"Broad Channel (A,S)",-73.815925,40.608382
+Secondary,0,queens,"Broadway (N,W)",-73.925508,40.76182
+Stable,0,queens,"Court Sq (E,G,M,7)",-73.945032,40.747141
+Core,0,queens,"Elmhurst Av (M,R)",-73.882017,40.742454
+Core,825133.8909,queens,Far Rockaway-Mott Av (A),-73.755405,40.603995
+Secondary,90605.91005,queens,Flushing-Main St (7),-73.83003,40.7596
+Stable,0,queens,Forest Av (M),-73.903077,40.704423
+Core,0,queens,"Forest Hills-71 Av (E,F,M,R)",-73.844521,40.721691
+Core,0,queens,Fresh Pond Rd (M),-73.895877,40.706186
+Core,0,queens,"Grand Av-Newtown (M,R)",-73.877223,40.737015
+Core,0,queens,Halsey St (L),-73.904084,40.695602
+Core,0,queens,Howard Beach-JFK Airport (A),-73.830301,40.660476
+Core,0,queens,Hunters Point Av (7),-73.948916,40.742216
+Secondary,0,queens,"Jamaica Center-Parsons/Archer (E,J,Z)",-73.801109,40.702147
+Stable,0,queens,Jamaica-179 St (F),-73.783817,40.712646
+Secondary,0,queens,Jamaica-Van Wyck (E),-73.816859,40.702566
+Secondary,0,queens,Junction Blvd (7),-73.869527,40.749145
+Secondary,0,queens,"Kew Gardens-Union Tpke (E,F)",-73.831008,40.714441
+Core,176326.6741,queens,Mets-Willets Point (7),-73.845625,40.754622
+Secondary,0,queens,Middle Village-Metropolitan Av (M),-73.889601,40.711396
+Core,0,queens,"Northern Blvd (M,R)",-73.906006,40.752885
+Core,0,queens,Ozone Park-Lefferts Blvd (A),-73.825798,40.685951
+Stable,0,queens,Parsons Blvd (F),-73.803326,40.707564
+Stable,0,queens,"Queens Plaza (E,M,R)",-73.937243,40.748973
+Secondary,0,queens,"Queensboro Plaza (7,N,W)",-73.940202,40.750582
+Core,0,queens,Rockaway Blvd (A),-73.843853,40.680429
+Core,36115.38995,queens,"Rockaway Park-Beach 116 St (A,S)",-73.835592,40.580903
+Stable,3750.956324,queens,Seneca Av (M),-73.90774,40.702762
+Stable,0,queens,"Steinway St (M,R)",-73.92074,40.756879
+Core,0,queens,Sutphin Blvd (F),-73.810708,40.70546
+Core,0,queens,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",-73.807969,40.700486
+Core,3476.028783,queens,Vernon Blvd-Jackson Av (7),-73.953581,40.742626
+Core,0,queens,"Woodhaven Blvd (J,Z)",-73.851576,40.693879
+Core,0,queens,"Woodhaven Blvd (M,R)",-73.869229,40.733106
+Secondary,0,brooklyn,"15 St-Prospect Park (F,G)",-73.96820218,40.6630723
+Secondary,0,brooklyn,18 Av (D),-74.01504,40.59966237
+Secondary,0,brooklyn,18 Av (F),-74.01504,40.59966237
+Core,0,brooklyn,18 Av (N),-74.01504,40.59966237
+Secondary,0,brooklyn,20 Av (D),-73.99998,40.60399707
+Secondary,0,brooklyn,20 Av (N),-73.99998,40.60399707
+Stable,0,brooklyn,25 Av (D),-74.01504,40.59966237
+Secondary,0,brooklyn,25 St (R),-73.97735936,40.6725506
+Core,0,brooklyn,"36 St (D,N,R)",-73.97735936,40.6725506
+Secondary,0,brooklyn,"4 Av (F,G)/9 St (R)",-73.97389303,40.6658924
+Secondary,0,brooklyn,45 St (R),-74.01307963,40.63661612
+Core,0,brooklyn,53 St (R),-74.01307963,40.63661612
+Stable,0,brooklyn,55 St (D),-73.97389303,40.6658924
+Core,0,brooklyn,"59 St (N,R)",-74.01307963,40.63661612
+Secondary,0,brooklyn,"7 Av (B,Q)",-73.97389303,40.6658924
+Secondary,0,brooklyn,"7 Av (F,G)",-73.97389303,40.6658924
+Secondary,0,brooklyn,71 St (D),-73.97108629,40.62429325
+Secondary,4377.613416,brooklyn,77 St (R),-74.01149473,40.62311166
+Secondary,0,brooklyn,79 St (D),-74.01149473,40.62311166
+Core,0,brooklyn,8 Av (N),-74.01307963,40.63661612
+Stable,7541.062648,brooklyn,86 St (N),-74.01149473,40.62311166
+Secondary,539.4839835,brooklyn,86 St (R),-74.01149473,40.62311166
+Core,0,brooklyn,9 Av (D),-73.97389303,40.6658924
+Core,0,brooklyn,Alabama Av (J),-73.91335258,40.67060206
+Core,0,brooklyn,Atlantic Av (L),-73.96998338,40.68693858
+Secondary,0,brooklyn,"Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)",-73.96998338,40.68693858
+Secondary,0,brooklyn,Avenue H (Q),-73.96924111,40.6329205
+Stable,0,brooklyn,Avenue I (F),-73.99604275,40.64397048
+Core,0,brooklyn,Avenue J (Q),-73.91335258,40.67060206
+Core,0,brooklyn,Avenue M (Q),-73.9828271,40.62220194
+Secondary,0,brooklyn,Avenue N (F),-73.91335258,40.67060206
+Stable,0,brooklyn,Avenue P (F),-73.99998,40.60399707
+Stable,0,brooklyn,Avenue U (F),-73.956889,40.60215944
+Secondary,1645.734574,brooklyn,Avenue U (N),-73.956889,40.60215944
+Secondary,0,brooklyn,Avenue U (Q),-73.956889,40.60215944
+Secondary,0,brooklyn,Avenue X (F),-73.96924111,40.6329205
+Core,0,brooklyn,Bay 50 St (D),-74.01504,40.59966237
+Stable,9976.5776,brooklyn,Bay Pkwy (D),-73.99998,40.60399707
+Stable,0,brooklyn,Bay Pkwy (F),-73.99998,40.60399707
+Secondary,449.5531324,brooklyn,Bay Pkwy (N),-74.01149473,40.62311166
+Stable,0,brooklyn,Bay Ridge Av (R),-74.01307963,40.63661612
+Core,18897.94255,brooklyn,Bay Ridge-95 St (R),-74.01149473,40.62311166
+Core,0,brooklyn,Bedford Av (L),-73.93364422,40.70708837
+Core,0,brooklyn,Bedford-Nostrand Avs (G),-73.94834757,40.68338718
+Stable,0,brooklyn,"Bergen St (2,3)",-73.96998338,40.68693858
+Stable,0,brooklyn,"Bergen St (F,G)",-73.97710949,40.6945265
+Core,0,brooklyn,Beverley Rd (Q),-73.94299485,40.64566951
+Secondary,0,brooklyn,"Beverly Rd (2,5)",-73.967789,40.65956145
+Core,82561.11809,brooklyn,"Brighton Beach (B,Q)",-73.964051,40.58249737
+Secondary,0,brooklyn,Broadway (G),-73.91335258,40.67060206
+Stable,0,brooklyn,"Broadway Junction (A,C,J,L,Z)",-73.91335258,40.67060206
+Core,1342.343499,brooklyn,Bushwick Av-Aberdeen St (L),-73.91335258,40.67060206
+Core,6982.730378,brooklyn,Canarsie-Rockaway Pkwy (L),-73.90067256,40.65844962
+Secondary,0,brooklyn,"Carroll St (F,G)",-73.99857234,40.67513999
+Stable,0,brooklyn,Central Av (M),-73.91286514,40.70073779
+Core,0,brooklyn,"Chauncey St (J,Z)",-73.91335258,40.67060206
+Core,0,brooklyn,"Church Av (2,5)",-73.94299485,40.64566951
+Core,812248.5567,brooklyn,"Church Av (B,Q)",-73.99604275,40.64397048
+Stable,0,brooklyn,"Church Av (F,G)",-73.99604275,40.64397048
+Stable,37049.48132,brooklyn,"Clark St (2,3)",-73.97710949,40.6945265
+Secondary,0,brooklyn,Classon Av (G),-73.94834757,40.68338718
+Core,0,brooklyn,Cleveland St (J),-73.92610457,40.66080916
+Core,4691.68753,brooklyn,Clinton-Washington Avs (C),-73.95976693,40.67879909
+Secondary,0,brooklyn,Clinton-Washington Avs (G),-73.95976693,40.67879909
+Core,98983.39645,brooklyn,"Coney Island-Stillwell Av (D,F,N,Q)",-73.98298304,40.63637437
+Core,0,brooklyn,Cortelyou Rd (Q),-73.94299485,40.64566951
+Stable,0,brooklyn,"Court St (R)/Borough Hall (2,3,4,5)",-73.97710949,40.6945265
+Core,0,brooklyn,"Crescent St (J,Z)",-73.93987838,40.69990892
+Stable,556.6851655,brooklyn,"Crown Hts-Utica Av (3,4)",-73.95976693,40.67879909
+Core,195875.5364,brooklyn,Cypress Hills (J),-73.92610457,40.66080916
+Core,0,brooklyn,"DeKalb Av (B,Q,R)",-73.91286514,40.70073779
+Core,0,brooklyn,DeKalb Av (L),-73.91286514,40.70073779
+Stable,0,brooklyn,Ditmas Av (F),-73.99604275,40.64397048
+Stable,1455.594326,brooklyn,East 105 St (L),-73.91335258,40.67060206
+Core,0,brooklyn,"Eastern Pkwy-Brooklyn Museum (2,3)",-73.959622,40.67866418
+Stable,0,brooklyn,"Euclid Av (A,C)",-73.91249138,40.66362905
+Secondary,0,brooklyn,"Flatbush Av-Brooklyn College (2,5)",-73.94441518,40.62729199
+Secondary,0,brooklyn,Flushing Av (G),-73.9177328,40.6807238
+Core,0,brooklyn,"Flushing Av (M,J)",-73.93716915,40.70100075
+Core,0,brooklyn,Fort Hamilton Pkwy (D),-74.00116909,40.63288043
+Stable,0,brooklyn,"Fort Hamilton Pkwy (F,G)",-74.00116909,40.63288043
+Secondary,0,brooklyn,Fort Hamilton Pkwy (N),-74.00116909,40.63288043
+Stable,0,brooklyn,"Franklin Av (2,3,4,5)/Botanic Garden (S)",-73.93858332,40.67123688
+Stable,0,brooklyn,"Franklin Av (C,S)",-73.93858332,40.67123688
+Core,2824.492021,brooklyn,"Gates Av (J,Z)",-73.90679555,40.70057011
+Core,0,brooklyn,Graham Av (L),-73.9366565,40.70769692
+Stable,0,brooklyn,"Grand Army Plaza (2,3)",-73.98761268,40.66457732
+Core,0,brooklyn,Grand St (L),-73.9366565,40.70769692
+Secondary,0,brooklyn,Greenpoint Av (G),-73.94540682,40.72969351
+Core,0,brooklyn,Halsey St (J),-73.89654573,40.67047825
+Stable,195.9436761,brooklyn,"Hewes St (M,J)",-73.9366565,40.70769692
+Core,60138.67459,brooklyn,"High St (A,C)",-73.99199817,40.69414451
+Core,35024.32837,brooklyn,"Hoyt St (2,3)",-73.99199817,40.69414451
+Stable,0,brooklyn,"Hoyt-Schermerhorn Sts (A,C,G)",-73.99199817,40.69414451
+Stable,70442.18262,brooklyn,"Jay St-MetroTech (A,C,F,R)",-73.99199817,40.69414451
+Core,0,brooklyn,Jefferson St (L),-73.89654573,40.67047825
+Core,0,brooklyn,Junius St (3),-73.91641712,40.66320261
+Core,57205.47199,brooklyn,"Kings Hwy (B,Q)",-73.92465061,40.59909545
+Secondary,14810.79019,brooklyn,Kings Hwy (F),-73.92465061,40.59909545
+Core,0,brooklyn,Kings Hwy (N),-73.92465061,40.59909545
+Stable,0,brooklyn,Kingston Av (3),-73.93858332,40.67123688
+Stable,0,brooklyn,Kingston-Throop Avs (C),-73.9366565,40.70769692
+Secondary,0,brooklyn,Knickerbocker Av (M),-73.90679555,"40.70057010615357	"
+Core,2651.652364,brooklyn,Kosciuszko St (J),-73.93516217,40.69877826
+Stable,12218.35644,brooklyn,Lafayette Av (C),-73.9986918,40.68674881
+Core,0,brooklyn,Liberty Av (C),-73.90873618,40.6692358
+Core,0,brooklyn,Livonia Av (L),-73.90873618,40.6692358
+Core,0,brooklyn,Lorimer St (L)/Metropolitan Av (G),-73.96235368,40.70901282
+Core,0,brooklyn,"Lorimer St (M,J)",-73.96235368,40.70901282
+Stable,0,brooklyn,"Marcy Av (M,J,Z)",-73.96235368,40.70901282
+Core,0,brooklyn,Montrose Av (L),-73.96235368,40.70901282
+Core,0,brooklyn,Morgan Av (L),-73.93030015,40.70228381
+Core,59678.19504,brooklyn,"Myrtle Av (M,J,Z)",-73.93030015,40.70228381
+Secondary,0,brooklyn,Myrtle-Willoughby Avs (G),-73.93030015,40.70228381
+Core,0,brooklyn,"Myrtle-Wyckoff Avs (L,M)",-73.93797055,40.70399667
+Secondary,0,brooklyn,Nassau Av (G),-73.92584869,40.72992625
+Secondary,0,brooklyn,Neck Rd (Q),-73.95258833,40.59954921
+Stable,0,brooklyn,Neptune Av (F),-73.97785124,40.63555141
+Stable,12445.52311,brooklyn,"Nevins St (2,3,4,5)",-73.9986918,40.68674881
+Secondary,0,brooklyn,New Lots Av (3),-73.90873618,40.6692358
+Core,0,brooklyn,New Lots Av (L),-73.90873618,40.6692358
+Secondary,0,brooklyn,New Utrecht Av (N)/62 St (D),-73.996353,40.624842
+Core,0,brooklyn,"Newkirk Av-Little Haiti (2,5)",-73.948215,40.63506
+Core,58437.78688,brooklyn,"Newkirk Plaza (B,Q)",-73.962622,40.632006
+Core,0,brooklyn,"Norwood Av (J,Z)",-73.879543,40.681751
+Secondary,0,brooklyn,Nostrand Av (3),-73.950322,40.669938
+Core,21833.62866,brooklyn,"Nostrand Av (A,C)",-73.949099,40.680438
+Secondary,0,brooklyn,Ocean Pkwy (Q),-73.968501,40.576312
+Secondary,0,brooklyn,Park Pl (S),-73.957624,40.674769
+Core,0,brooklyn,Parkside Av (Q),-73.961356,40.655292
+Stable,0,brooklyn,Pennsylvania Av (3),-73.894895,40.664635
+Stable,0,brooklyn,"President St-Medgar Evers College (2,5)",-73.953147,40.667883
+Secondary,0,brooklyn,Prospect Av (R),-73.992113,40.665222
+Core,20126.5656,brooklyn,"Prospect Park (B,Q,S)",-73.962223,40.661453
+Core,0,brooklyn,Ralph Av (C),-73.921218,40.67834
+Core,0,brooklyn,Rockaway Av (3),-73.908946,40.662549
+Secondary,0,brooklyn,Rockaway Av (C),-73.91033,40.68278
+Core,0,brooklyn,Saratoga Av (3),-73.922982,40.666235
+Stable,5360.216371,brooklyn,"Sheepshead Bay (B,Q)",-73.954511,40.58633
+Secondary,0,brooklyn,Shepherd Av (C),-73.88075,40.67413
+Secondary,0,brooklyn,"Smith-9 Sts (F,G)",-73.995039,40.673742
+Stable,0,brooklyn,"Sterling St (2,5)",-73.950041,40.663756
+Core,0,brooklyn,Sutter Av (L),-73.901,40.66966
+Core,0,brooklyn,Sutter Av-Rutland Rd (3),-73.9226,40.662375
+Secondary,0,brooklyn,Union St (R),-73.98311,40.677316
+Core,0,brooklyn,"Utica Av (A,C)",-73.92953,40.679876
+Secondary,0,brooklyn,Van Siclen Av (3),-73.889395,40.665449
+Core,0,brooklyn,Van Siclen Av (C),-73.890792,40.67271
+Core,0,brooklyn,"Van Siclen Av (J,Z)",-73.900126,40.678024
+Core,0,brooklyn,"W 8 St-NY Aquarium (F,Q)",-73.975444,40.576041
+Core,0,brooklyn,Wilson Av (L),-73.9103,40.6897
+Secondary,0,brooklyn,"Winthrop St (2,5)",-73.947349,40.661473
+Secondary,60843.07293,brooklyn,York St (F),-73.986751,40.701397
