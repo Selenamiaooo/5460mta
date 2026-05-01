@@ -6,5 +6,6 @@ How to run:
    - monthly_stats.rds
    - station_effects.rds
    - stationsmap.csv
+   - my_area.geojson
 3. Run:
    shiny::runApp()
