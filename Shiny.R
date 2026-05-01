@@ -460,7 +460,7 @@ ui <- tagList(
         card(
           card_header("How to Run (Posit Cloud)"),
           card_body(
-            p("Put this file as Shiny.R in the project root. Ensure data/monthly_stats.rds and data/station_effects.rds exist. Then click Run App.")
+            p("Put this file as Shiny.R in the project root. Ensure monthly_stats.rds, station_effects.rds, stationsmap.csv, and my_area.geojson exist in the Data folder. Then click Run App.")
           )
         ),
         br()
