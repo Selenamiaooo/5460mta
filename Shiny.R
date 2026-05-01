@@ -463,6 +463,15 @@ ui <- tagList(
             p("Put this file as Shiny.R in the project root. Ensure monthly_stats.rds, station_effects.rds, stationsmap.csv, and my_area.geojson exist in the Data folder. Then click Run App.")
           )
         ),
+        br(),
+        card(
+          card_header("Team Roles"),
+          card_body(
+            p("Zhijie Zhou (Jack) – Developer B (Reactive Visuals) & Developer A (Reactive Text and Value Boxes): Led the development of the Spatial Analysis page, implementing sf-based spatial calculations, new reactive visualizations, and spatial metric value boxes."),
+            p("Yueqing Miao (Selena) – Architect (Process Diagram & Summary): Designed the expanded reactivity process diagram covering both the original dashboard (V1) and the Spatial Analysis extension (V2), and contributed to the app summary documentation."),
+            p("Qigen Lin (Kegan) – Developer C (User Interface, Color & Readability) & Manager (Performance Testing, Share Links & Submission): Assisted with app interface refinements, contributed to the App Description, and managed performance testing and final submission.")
+          )
+        ),
         br()
       )
     )
